@@ -1,3 +1,4 @@
+<!-- HEADER -->
 <div align="center">
 
 ```
@@ -9,7 +10,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝
 ```
 
-### ⚡ Android Developer · Web Builder · AI-Powered Creator ⚡
+### ⚡ AI-Powered Builder · Vision-First Creator · Android & Web ⚡
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
@@ -19,7 +20,7 @@
 
 <br/>
 
-> *"Don't wait to be ready. Ship it, improve it, own it."*
+> *"I don't code everything — I command everything. The vision is mine."*
 
 </div>
 
@@ -27,15 +28,36 @@
 
 ## 〔 WHO AM I 〕
 
-I'm **Rakib** — an Android developer and builder from **Jashore, Bangladesh**.
+I'm **Rakib** — a builder and AI-powered creator from **Jashore, Bangladesh**.
 
-I build real apps with real architecture. My stack is Kotlin + Jetpack Compose on Android, TypeScript for web, and I use AI tools strategically to ship faster without cutting corners on quality.
+I'm not a traditional developer. I'm something different: **I direct AI to build real, production-ready apps** — setting the vision, architecture, and product decisions, while using AI as my execution engine. Every project here was **conceived, commanded, and owned by me.**
+
+Think of it like being a director on a film set. The AI is the crew. I call the shots.
 
 Currently focused on:
-- 📱 Android apps with clean MVVM architecture
+- 📱 Android apps with clean MVVM architecture — directed, not hand-coded
 - 🌍 Building **UniWorld** — a global university discovery platform
 - 🔐 Security-focused utilities like **PrivGuard**
 - 📸 Photography & creative tech crossovers
+- 🤖 Mastering the craft of **AI-driven product creation**
+
+---
+
+## 〔 HOW I BUILD 〕
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              MY WORKFLOW: VISION → COMMAND → SHIP               │
+├───────────────────┬─────────────────────────────────────────────┤
+│  I Define         │  Product vision · UX flow · Architecture    │
+│  AI Executes      │  Code generation · Debugging · Iteration    │
+│  I Review         │  Quality check · Direction · Decisions      │
+│  We Ship Together │  Real apps. Real users. Real impact.        │
+└───────────────────┴─────────────────────────────────────────────┘
+```
+
+> Every line of code in my projects was **AI-generated under my command.**  
+> I believe the future of building is: **strong vision + smart AI use.**
 
 ---
 
@@ -46,9 +68,9 @@ Currently focused on:
 │                        MY ARSENAL                           │
 ├───────────────────────┬─────────────────────────────────────┤
 │  Android              │  Kotlin · Jetpack Compose · MVVM   │
-│  Web                  │  TypeScript · React Native · Expo   │
+│  Web & Mobile         │  TypeScript · React Native · Expo   │
 │  Styling              │  Tailwind CSS · NativeWind          │
-│  AI Tools             │  Manus AI · Gemini · GPT-4          │
+│  AI Tools             │  Claude · Gemini · GPT-4 · Manus   │
 │  Encryption           │  AES-128 · javax.crypto · Base64   │
 │  Build System         │  Gradle · Version Catalogs          │
 │  Version Control      │  Git · GitHub                       │
@@ -59,12 +81,18 @@ Currently focused on:
 
 ## 〔 FEATURED PROJECTS 〕
 
+> 🤖 **All projects below were built using AI — architected, directed, and owned by me.**
+
+---
+
 ### 🔐 [PrivGuard](https://github.com/mr-10/PrivGuard)
 > AES-128 encryption Android app · Kotlin · Jetpack Compose · Cyberpunk UI
 
 A sleek, offline text encryption & decryption tool. No accounts, no cloud, no tracking — just pure AES-128/CBC encryption running locally on your device. Features a full cyberpunk neon dark theme with electric light mode toggle.
 
-`Kotlin` `Jetpack Compose` `MVVM` `AES-128` `Android`
+**My role:** Defined the security model, cyberpunk UX direction, and feature scope. AI built it. I shipped it.
+
+`Kotlin` `Jetpack Compose` `MVVM` `AES-128` `Android` `AI-Built`
 
 ---
 
@@ -73,7 +101,9 @@ A sleek, offline text encryption & decryption tool. No accounts, no cloud, no tr
 
 A 5-tab mobile platform for discovering universities worldwide. Includes a university database, advanced search & filters, automated email draft generator, scholarship tracker, and university comparison engine.
 
-`TypeScript` `React Native` `Expo` `AI-Powered`
+**My role:** Product vision, feature roadmap, and UX architecture. Every screen was commanded into existence.
+
+`TypeScript` `React Native` `Expo` `AI-Powered` `AI-Built`
 
 ---
 
@@ -82,7 +112,9 @@ A 5-tab mobile platform for discovering universities worldwide. Includes a unive
 
 An AI-powered photo enhancement tool for couples. Powered by Gemini with three distinct processing methods to transform photographs. Built as a WebAPK for easy Android distribution.
 
-`TypeScript` `Google Gemini` `AI Studio` `WebAPK`
+**My role:** Concept, integration design, and distribution strategy. AI made it real.
+
+`TypeScript` `Google Gemini` `AI Studio` `WebAPK` `AI-Built`
 
 ---
 
@@ -91,7 +123,9 @@ An AI-powered photo enhancement tool for couples. Powered by Gemini with three d
 
 A community emergency services connector app. Built to bridge people with local help fast.
 
-`TypeScript` `React Native` `Emergency Services`
+**My role:** Identified the community need, defined the user flow, directed the build.
+
+`TypeScript` `React Native` `Emergency Services` `AI-Built`
 
 ---
 
@@ -114,6 +148,24 @@ A community emergency services connector app. Built to bridge people with local 
 [▓▓▓▓▓▓░░░░]  IELTS prep (target: 8.0 band)
 [▓▓▓▓▓▓▓▓▓░]  PrivGuard — adding custom key input & AES-256
 [▓▓▓░░░░░░░]  Exploring scholarship opportunities abroad
+[▓▓▓▓▓▓░░░░]  Sharpening my AI-command craft
+```
+
+---
+
+## 〔 MY PHILOSOPHY 〕
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   "Knowing HOW to use AI is the skill of this decade.        │
+│    I'm not hiding it — I'm mastering it."                    │
+│                                                              │
+│   ✦ I build with AI, not despite it.                         │
+│   ✦ Strong vision > hand-written code.                       │
+│   ✦ What matters: the product ships, users love it.          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -133,9 +185,9 @@ A community emergency services connector app. Built to bridge people with local 
 <div align="center">
 
 ```
-⚡ JASHORE, BANGLADESH · BUILDING IN THE DARK ⚡
+⚡ JASHORE, BANGLADESH · BUILDING WITH AI · OWNING EVERY PIXEL ⚡
 ```
 
-*Profile views counter coming soon. Stars appreciated. Feedback welcome.*
+*Stars appreciated. Collabs welcome. AI used — proudly.*
 
 </div>
