@@ -177,7 +177,7 @@ A community emergency services connector app. Built to bridge people with local 
 [![GitHub](https://img.shields.io/badge/GitHub-mr--10-181717?style=for-the-badge&logo=github)](https://github.com/mr-10)
 [![Email](https://img.shields.io/badge/Proton_Mail-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yashchawdhury@protonmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mr_10bd)
-
+[![Facebook](https://img.shields.io/badge/Facebook-YourName-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/youcancallmerakib)
 
 </div>
 
