@@ -76,3 +76,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 🚀 Professional AI Executor & Part-Time Solution Architect
+
+I specialize in AI Execution—the art of leveraging advanced AI agents, LLMs, and modern orchestration tools to build high-performance applications. I excel at architecting solutions and rapidly deploying software through AI-driven workflows.
+
+---
+
+### 🛠️ My AI-Driven Tech Stack
+
+When I build, I rely on the most advanced tools to ensure speed and quality:
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI Orchestration** | Manus AI, OpenAI (GPT-4), Google Gemini, AI Studio |
+| **Rapid Prototyping** | React Native, Expo, Tailwind CSS, NativeWind |
+| **Methodology** | AI-First Development, Agentic Workflows, Prompt Engineering |
+
+---
+
+### 🌟 Featured Projects
+
+#### [🎓 UniWorld App](https://github.com/mr-10/uniworld-app)
+A global university discovery and application assistant. I orchestrated AI to build a 5-tab mobile application with complex features like an automated email draft generator, scholarship tracking, and a university comparison engine.
+
+#### [📸 LovLoom](https://github.com/mr-10/LovLoom)
+An AI-powered photo regeneration WebAPK. Built using **Google AI Studio** and **Gemini**, it features three distinct AI processing methods to transform and enhance couple photographs.
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mr-10&show_icons=true&theme=dark&hide_border=true" alt="mr-10's GitHub Stats" />
+</p>
