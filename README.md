@@ -1,113 +1,141 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mr-10/mr-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 👋 Hi there, I'm mr-10!
+```
+██████╗  █████╗ ██╗  ██╗██╗██████╗
+██╔══██╗██╔══██╗██║ ██╔╝██║██╔══██╗
+██████╔╝███████║█████╔╝ ██║██████╔╝
+██╔══██╗██╔══██║██╔═██╗ ██║██╔══██╗
+██║  ██║██║  ██║██║  ██╗██║██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝
+```
 
-### 🚀 Professional AI Executor & Part-Time Solution Architect
+### ⚡ Android Developer · Web Builder · AI-Powered Creator ⚡
 
-I specialize in **AI Execution**—the art of leveraging advanced AI agents, large language models, and modern orchestration tools to build high-performance applications. While I don't focus on traditional coding syntax, I excel at **architecting solutions**, **prompt engineering**, and **rapidly deploying production-ready software** through AI-driven workflows.
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 
----
+<br/>
 
-### 🛠️ My AI-Driven Tech Stack
+> *"Don't wait to be ready. Ship it, improve it, own it."*
 
-When I build, I rely on the most advanced tools to ensure speed and quality:
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **AI Orchestration** | Manus AI, OpenAI (GPT-4), Google Gemini, AI Studio |
-| **Rapid Prototyping** | React Native, Expo, Tailwind CSS, NativeWind |
-| **Data & Infrastructure** | Drizzle ORM, SQLite, GitHub Actions, Vercel |
-| **Methodology** | AI-First Development, Agentic Workflows, Prompt Engineering |
-
----
-
-### 🌟 Featured Projects
-
-#### [🎓 UniWorld App](https://github.com/mr-10/uniworld-app)
-A global university discovery and application assistant. I orchestrated AI to build a 5-tab mobile application with complex features like an automated email draft generator, scholarship tracking, and a university comparison engine.
-
-#### [📸 LovLoom](https://github.com/mr-10/LovLoom)
-An AI-powered photo regeneration WebAPK. Built using **Google AI Studio** and **Gemini**, it features three distinct AI processing methods to transform and enhance couple photographs.
+</div>
 
 ---
 
-### 📊 GitHub Insights
+## 〔 WHO AM I 〕
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-10&show_icons=true&theme=dark&hide_border=true" alt="mr-10's GitHub Stats" />
-</p>
+I'm **Rakib** — an Android developer and builder from **Jashore, Bangladesh**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-10&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+I build real apps with real architecture. My stack is Kotlin + Jetpack Compose on Android, TypeScript for web, and I use AI tools strategically to ship faster without cutting corners on quality.
 
----
-
-### ☕ Support My Work
-
-If you find my AI-driven solutions helpful or interesting, feel free to support my journey!
-
-<a href="https://www.buymeacoffee.com/yourusername">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
+Currently focused on:
+- 📱 Android apps with clean MVVM architecture
+- 🌍 Building **UniWorld** — a global university discovery platform
+- 🔐 Security-focused utilities like **PrivGuard**
+- 📸 Photography & creative tech crossovers
 
 ---
 
-### 📫 Connect with Me
+## 〔 TECH STACK 〕
 
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 🌐 **Portfolio**: [Your Portfolio/Website](https://your-website.com)
-- 🤖 **Philosophy**: "Building the future, one prompt at a time."
-
----
-*This profile was architected and optimized by Manus AI.*
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### 🚀 Professional AI Executor & Part-Time Solution Architect
-
-I specialize in AI Execution—the art of leveraging advanced AI agents, LLMs, and modern orchestration tools to build high-performance applications. I excel at architecting solutions and rapidly deploying software through AI-driven workflows.
+```
+┌─────────────────────────────────────────────────────────────┐
+│                        MY ARSENAL                           │
+├───────────────────────┬─────────────────────────────────────┤
+│  Android              │  Kotlin · Jetpack Compose · MVVM   │
+│  Web                  │  TypeScript · React Native · Expo   │
+│  Styling              │  Tailwind CSS · NativeWind          │
+│  AI Tools             │  Manus AI · Gemini · GPT-4          │
+│  Encryption           │  AES-128 · javax.crypto · Base64   │
+│  Build System         │  Gradle · Version Catalogs          │
+│  Version Control      │  Git · GitHub                       │
+└───────────────────────┴─────────────────────────────────────┘
+```
 
 ---
 
-### 🛠️ My AI-Driven Tech Stack
+## 〔 FEATURED PROJECTS 〕
 
-When I build, I rely on the most advanced tools to ensure speed and quality:
+### 🔐 [PrivGuard](https://github.com/mr-10/PrivGuard)
+> AES-128 encryption Android app · Kotlin · Jetpack Compose · Cyberpunk UI
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **AI Orchestration** | Manus AI, OpenAI (GPT-4), Google Gemini, AI Studio |
-| **Rapid Prototyping** | React Native, Expo, Tailwind CSS, NativeWind |
-| **Methodology** | AI-First Development, Agentic Workflows, Prompt Engineering |
+A sleek, offline text encryption & decryption tool. No accounts, no cloud, no tracking — just pure AES-128/CBC encryption running locally on your device. Features a full cyberpunk neon dark theme with electric light mode toggle.
 
----
-
-### 🌟 Featured Projects
-
-#### [🎓 UniWorld App](https://github.com/mr-10/uniworld-app)
-A global university discovery and application assistant. I orchestrated AI to build a 5-tab mobile application with complex features like an automated email draft generator, scholarship tracking, and a university comparison engine.
-
-#### [📸 LovLoom](https://github.com/mr-10/LovLoom)
-An AI-powered photo regeneration WebAPK. Built using **Google AI Studio** and **Gemini**, it features three distinct AI processing methods to transform and enhance couple photographs.
+`Kotlin` `Jetpack Compose` `MVVM` `AES-128` `Android`
 
 ---
 
-### 📊 GitHub Insights
+### 🎓 [UniWorld](https://github.com/mr-10/uniworld-app)
+> Global university discovery & application assistant · TypeScript · React Native
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mr-10&show_icons=true&theme=dark&hide_border=true" alt="mr-10's GitHub Stats" />
-</p>
+A 5-tab mobile platform for discovering universities worldwide. Includes a university database, advanced search & filters, automated email draft generator, scholarship tracker, and university comparison engine.
+
+`TypeScript` `React Native` `Expo` `AI-Powered`
+
+---
+
+### 📸 [LovLoom](https://github.com/mr-10/LovLoom)
+> AI photo regeneration WebAPK · Google AI Studio · Gemini
+
+An AI-powered photo enhancement tool for couples. Powered by Gemini with three distinct processing methods to transform photographs. Built as a WebAPK for easy Android distribution.
+
+`TypeScript` `Google Gemini` `AI Studio` `WebAPK`
+
+---
+
+### 🚨 [Local Sheba](https://github.com/mr-10/Local-Sheba)
+> Emergency services app · TypeScript
+
+A community emergency services connector app. Built to bridge people with local help fast.
+
+`TypeScript` `React Native` `Emergency Services`
+
+---
+
+## 〔 GITHUB STATS 〕
+
+<div align="center">
+
+![Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-10&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=00F0FF&icon_color=BC13FE&text_color=E0E0E0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-10&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=00F0FF&text_color=E0E0E0)
+
+</div>
+
+---
+
+## 〔 WHAT I'M WORKING ON 〕
+
+```
+[▓▓▓▓▓▓▓▓░░]  UniWorld — university discovery platform
+[▓▓▓▓▓▓░░░░]  IELTS prep (target: 8.0 band)
+[▓▓▓▓▓▓▓▓▓░]  PrivGuard — adding custom key input & AES-256
+[▓▓▓░░░░░░░]  Exploring scholarship opportunities abroad
+```
+
+---
+
+## 〔 CONNECT 〕
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-mr--10-181717?style=for-the-badge&logo=github)](https://github.com/mr-10)
+[![Email](https://img.shields.io/badge/Proton_Mail-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:your@protonmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+⚡ JASHORE, BANGLADESH · BUILDING IN THE DARK ⚡
+```
+
+*Profile views counter coming soon. Stars appreciated. Feedback welcome.*
+
+</div>
