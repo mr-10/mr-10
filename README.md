@@ -85,6 +85,17 @@ Currently focused on:
 
 ---
 
+### 🔍 [BraveAsk](https://github.com/mr-10/BraveAsk)
+> Unofficial Android client for Brave Search Ask · Java · Android Studio
+
+A clean, distraction-free native Android wrapper for [Brave Search Ask](https://search.brave.com/ask). No ugly Android error pages — features a custom offline screen, auto-reconnect when internet restores, shake feedback on retry, and smooth back navigation. APK available in releases.
+
+**My role:** Defined the UX behaviour, offline experience, and native feel. AI built it. I shipped it.
+
+`Java` `Android Studio` `WebView` `ConnectivityManager` `AI-Built`
+
+---
+
 ### 🔐 [PrivGuard](https://github.com/mr-10/PrivGuard)
 > AES-128 encryption Android app · Kotlin · Jetpack Compose · Cyberpunk UI
 
